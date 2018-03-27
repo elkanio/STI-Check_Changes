@@ -1,0 +1,12 @@
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\bin\Debug\Check Changes.exe.config
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\bin\Debug\Check Changes.exe
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\bin\Debug\Check Changes.pdb
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\obj\Debug\Check Changes.csprojResolveAssemblyReference.cache
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\obj\Debug\Check_Changes.Form1.resources
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\obj\Debug\Check_Changes.Properties.Resources.resources
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\obj\Debug\Check Changes.csproj.GenerateResource.Cache
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\obj\Debug\Check Changes.exe
+c:\users\elkanio\documents\visual studio 2015\Projects\Check Changes\Check Changes\obj\Debug\Check Changes.pdb
+C:\Users\elkanio\Documents\GitHub\STI-Check_Changes\Check Changes\Check Changes\bin\Debug\Check Changes.exe.config
+C:\Users\elkanio\Documents\GitHub\STI-Check_Changes\Check Changes\Check Changes\obj\Debug\Check Changes.exe
+C:\Users\elkanio\Documents\GitHub\STI-Check_Changes\Check Changes\Check Changes\obj\Debug\Check Changes.pdb
